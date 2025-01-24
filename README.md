@@ -1,3 +1,3 @@
 # tabnews-clone
 
-Projeto baseado no TabNews, projeto este que é ensinado nas aulas do Filipe Deschamps
+Project based on TabNews, a project that is teached in classes of Filipe Deschamps
